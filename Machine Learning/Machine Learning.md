@@ -1,0 +1,5 @@
+[[Introduction to Machine Learning]]
+[[Decision Trees]]
+[[Validation]]
+[[Decision Rules]]
+[[K nearest neighbour]]
