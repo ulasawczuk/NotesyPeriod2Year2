@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "Clustering task",
+      "path": "Machine Learning/Clustering task.md"
+    },
+    {
+      "basename": "Decision Rules",
+      "path": "Machine Learning/Decision Rules.md"
+    },
+    {
+      "basename": "Top-down, bottom-up",
+      "path": "Top-down, bottom-up.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Machine Learning/Machine Learning.md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "Machine Learning/Clustering.md"
+    },
+    {
+      "basename": "k-fold Cross-Validation method",
+      "path": "Machine Learning/k-fold Cross-Validation method.md"
+    },
+    {
+      "basename": "K nearest neighbour",
+      "path": "Machine Learning/K nearest neighbour.md"
+    },
+    {
+      "basename": "Leave-one-out method",
+      "path": "Machine Learning/Leave-one-out method.md"
+    },
+    {
+      "basename": "Receiver Operating Characteristic",
+      "path": "Machine Learning/Receiver Operating Characteristic.md"
+    },
+    {
+      "basename": "Validation",
+      "path": "Machine Learning/Validation.md"
+    },
+    {
+      "basename": "Estimations",
+      "path": "Estimations.md"
+    },
+    {
+      "basename": "Decision Trees",
+      "path": "Machine Learning/Decision Trees.md"
+    },
+    {
+      "basename": "Introduction to Machine Learning",
+      "path": "Machine Learning/Introduction to Machine Learning.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Bottom-up",
+      "path": "Machine Learning/Bottom-up.md"
+    },
+    {
+      "basename": "Regression task",
+      "path": "Machine Learning/Regression task.md"
+    },
+    {
+      "basename": "Classification task",
+      "path": "Machine Learning/Classification task.md"
+    },
+    {
+      "basename": "Minkowski Distance",
+      "path": "Machine Learning/Minkowski Distance.md"
+    },
+    {
+      "basename": "Estimation with Independent Set Data",
+      "path": "Machine Learning/Estimation with Independent Set Data.md"
+    },
+    {
+      "basename": "Cost-Sensitive",
+      "path": "Machine Learning/Cost-Sensitive.md"
+    },
+    {
+      "basename": "Constraint satisfaction problems",
+      "path": "Reasoning Techniques/Constraint satisfaction problems.md"
+    },
+    {
+      "basename": "Reasoning Techniques",
+      "path": "Reasoning Techniques/Reasoning Techniques.md"
+    },
+    {
       "basename": "Bayesian Networks",
       "path": "Reasoning Techniques/Bayesian Networks.md"
     },
@@ -81,14 +169,6 @@
       "path": "fotki/Screenshot 2023-12-02 at 2.25.08 PM.png"
     },
     {
-      "basename": "Decision Trees",
-      "path": "Machine Learning/Decision Trees.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Machine Learning/Machine Learning.md"
-    },
-    {
       "basename": "Screenshot 2023-11-29 at 5.49.16 PM",
       "path": "fotki/Screenshot 2023-11-29 at 5.49.16 PM.png"
     },
@@ -97,24 +177,12 @@
       "path": "Reasoning Techniques/Uncertainty.md"
     },
     {
-      "basename": "Clustering",
-      "path": "Machine Learning/Clustering.md"
-    },
-    {
       "basename": "Logic Programming with Prolog",
       "path": "Reasoning Techniques/Logic Programming with Prolog.md"
     },
     {
       "basename": "Screenshot 2023-11-28 at 11.12.43 AM",
       "path": "fotki/Screenshot 2023-11-28 at 11.12.43 AM.png"
-    },
-    {
-      "basename": "Receiver Operating Characteristic",
-      "path": "Machine Learning/Receiver Operating Characteristic.md"
-    },
-    {
-      "basename": "Reasoning Techniques",
-      "path": "Reasoning Techniques/Reasoning Techniques.md"
     },
     {
       "basename": "Hypothesis testing",
@@ -131,74 +199,6 @@
     {
       "basename": "Statistic for Mean and Distribution",
       "path": "Simulation and Statistical Analysis/Statistic for Mean and Distribution.md"
-    },
-    {
-      "basename": "z-test for the Mean",
-      "path": "Simulation and Statistical Analysis/z-test for the Mean.md"
-    },
-    {
-      "basename": "Screenshot 2023-11-27 at 11.31.20 AM",
-      "path": "fotki/Screenshot 2023-11-27 at 11.31.20 AM.png"
-    },
-    {
-      "basename": "Discrete Event simulation",
-      "path": "Simulation and Statistical Analysis/Discrete Event simulation.md"
-    },
-    {
-      "basename": "Discrete Time simulation",
-      "path": "Simulation and Statistical Analysis/Discrete Time simulation.md"
-    },
-    {
-      "basename": "RT Assignment 1",
-      "path": "Reasoning Techniques/RT Assignment 1.md"
-    },
-    {
-      "basename": "Drawing 2023-11-13 13.39.05.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-13 13.39.05.excalidraw.md"
-    },
-    {
-      "basename": "Tutorial 1",
-      "path": "Reasoning Techniques/Tutorial 1.md"
-    },
-    {
-      "basename": "Fitting distributions",
-      "path": "Simulation and Statistical Analysis/Fitting distributions.md"
-    },
-    {
-      "basename": "Pasted image 20231120202414",
-      "path": "fotki/Pasted image 20231120202414.png"
-    },
-    {
-      "basename": "Lab 2 Report",
-      "path": "Machine Learning/Lab 2 Report.md"
-    },
-    {
-      "basename": "K nearest neighbour",
-      "path": "Machine Learning/K nearest neighbour.md"
-    },
-    {
-      "basename": "Minkowski Distance",
-      "path": "Machine Learning/Minkowski Distance.md"
-    },
-    {
-      "basename": "Simulated annealing",
-      "path": "Reasoning Techniques/Simulated annealing.md"
-    },
-    {
-      "basename": "Screenshot 2023-11-18 at 4.13.25 PM 1",
-      "path": "fotki/Screenshot 2023-11-18 at 4.13.25 PM 1.png"
-    },
-    {
-      "basename": "Logical Agents",
-      "path": "Reasoning Techniques/Logical Agents.md"
-    },
-    {
-      "basename": "Screenshot 2023-11-16 at 2.32.20 PM",
-      "path": "fotki/Screenshot 2023-11-16 at 2.32.20 PM.png"
-    },
-    {
-      "basename": "Screenshot 2023-11-15 at 3.45.29 PM",
-      "path": "fotki/Screenshot 2023-11-15 at 3.45.29 PM.png"
     }
   ],
   "omittedPaths": [],

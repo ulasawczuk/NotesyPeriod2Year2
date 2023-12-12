@@ -1,0 +1,5 @@
+![[Estimation with training data]]
+![[Estimation with Independent Set Data]]
+![[Hold-out method]]
+![[k-fold Cross-Validation method]]
+![[Leave-one-out method]]

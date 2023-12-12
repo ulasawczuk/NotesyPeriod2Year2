@@ -11,8 +11,12 @@
             "id": "6a7c8e8f2544287e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Clustering task.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -103,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reasoning Techniques/Bayesian Networks.md",
+                "file": "Machine Learning/Clustering task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reasoning Techniques/Bayesian Networks.md",
+                "file": "Machine Learning/Clustering task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reasoning Techniques/Bayesian Networks.md"
+                "file": "Machine Learning/Clustering task.md"
               }
             }
           }
@@ -168,8 +172,30 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "42d68fea6ccd9dff",
+  "active": "6a7c8e8f2544287e",
   "lastOpenFiles": [
+    "Machine Learning/Decision Rules.md",
+    "Top-down, bottom-up.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Clustering.md",
+    "Machine Learning/k-fold Cross-Validation method.md",
+    "Machine Learning/K nearest neighbour.md",
+    "Machine Learning/Leave-one-out method.md",
+    "Machine Learning/Receiver Operating Characteristic.md",
+    "Machine Learning/Validation.md",
+    "Estimations.md",
+    "Machine Learning/Decision Trees.md",
+    "Machine Learning/Introduction to Machine Learning.md",
+    "Tasks.md",
+    "Machine Learning/Bottom-up.md",
+    "Machine Learning/Regression task.md",
+    "Machine Learning/Classification task.md",
+    "Machine Learning/Minkowski Distance.md",
+    "Machine Learning/Estimation with Independent Set Data.md",
+    "Machine Learning/Cost-Sensitive.md",
+    "Reasoning Techniques/Constraint satisfaction problems.md",
+    "Reasoning Techniques/Reasoning Techniques.md",
+    "Reasoning Techniques/Bayesian Networks.md",
     "GUI-Rummikub/desktop.ini",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/setup/Exceptions/InvalidTilePlacement.class",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/setup/Value.class",
@@ -180,7 +206,6 @@
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/setup/GameApp.class",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/setup/Exceptions",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/setup/Colour.class",
-    "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/setup/Board.class",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/img/score_logo.png",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/img/r_logo.png",
     "GUI-Rummikub/RummikubFrontScreen/target/classes/com/example/rummikubfrontscreen/img/play_logo.png",
@@ -195,27 +220,6 @@
     "Simulation and Statistical Analysis/Chi square test.md",
     "Simulation and Statistical Analysis/Poker test.md",
     "Simulation and Statistical Analysis/Runs test.md",
-    "Simulation and Statistical Analysis/Random number generators.md",
-    "Simulation and Statistical Analysis/Simulation and Statistical Analysis.md",
-    "Simulation and Statistical Analysis/Simulation & modeling.md",
-    "Simulation and Statistical Analysis/Queueing Systems.md",
-    "Simulation and Statistical Analysis/t-test for the Mean.md",
-    "Simulation and Statistical Analysis/Generating Random Variates.md",
-    "Simulation and Statistical Analysis/Poisson Process.md",
-    "Reasoning Techniques/RT Assignment 2.md",
-    "Excalidraw/Drawing 2023-12-03 21.12.42.excalidraw.md",
-    "Reasoning Techniques/Bayesian Networks.md",
-    "Reasoning Techniques/Backtracking search.md",
-    "Reasoning Techniques/Planning.md",
-    "Excalidraw/Untitled.md",
-    "Untitled.canvas",
-    "Machine Learning/Decision Trees.md",
-    "Machine Learning/Machine Learning.md",
-    "Reasoning Techniques/Uncertainty.md",
-    "Machine Learning/Clustering.md",
-    "Reasoning Techniques/Logic Programming with Prolog.md",
-    "Machine Learning/Receiver Operating Characteristic.md",
-    "Reasoning Techniques/Reasoning Techniques.md",
-    "Simulation and Statistical Analysis/Hypothesis testing.md"
+    "Untitled.canvas"
   ]
 }
