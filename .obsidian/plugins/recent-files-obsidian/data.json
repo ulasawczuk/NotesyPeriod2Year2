@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Clustering",
+      "path": "Machine Learning/Clustering.md"
+    },
+    {
+      "basename": "Runs test",
+      "path": "Simulation and Statistical Analysis/Runs test.md"
+    },
+    {
       "basename": "Clustering task",
       "path": "Machine Learning/Clustering task.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Machine Learning",
       "path": "Machine Learning/Machine Learning.md"
-    },
-    {
-      "basename": "Clustering",
-      "path": "Machine Learning/Clustering.md"
     },
     {
       "basename": "k-fold Cross-Validation method",
@@ -107,10 +111,6 @@
     {
       "basename": "Poker test",
       "path": "Simulation and Statistical Analysis/Poker test.md"
-    },
-    {
-      "basename": "Runs test",
-      "path": "Simulation and Statistical Analysis/Runs test.md"
     },
     {
       "basename": "Random number generators",
